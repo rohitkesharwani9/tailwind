@@ -1,20 +1,7 @@
  <br />
-<div align="center">
- <a href="https://tailwindhelper.com">
-  <img src="https://user-images.githubusercontent.com/95282692/186514182-21972878-c450-498c-8a64-fcc05f1955da.png" width="500">
- </a>
-</div>
 
-<p align="center">
-    A Tailwindcss multi-tool
-    <br />
-    <a href="https://tailwindhelper.com"><strong>Visit the website »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/seb-graf/tailwind-helper/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/seb-graf/tailwind-helper/issues">Request Feature</a>
-</p>
+
+
 
 # What is it?
 
